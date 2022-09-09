@@ -13,23 +13,27 @@ CSS 반응형 웹사이트를 만드는 것을 공부하기 위한 프로젝트
 
 ### website 화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51c1ca17-1272-49e2-ad30-a2b26f88c836/Untitled.png)
+![default](https://user-images.githubusercontent.com/46344256/189266144-b80e6ad8-facb-40af-acd2-c6938695fbf9.jpg)
+
 
 ### width의 크기가 1000보다 작을 때
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/126d75d2-ffa5-4e01-b534-43c1c5db856c/Untitled.png)
+![1000](https://user-images.githubusercontent.com/46344256/189266171-c3f3d0ef-aaba-4f13-ad64-a00df6260c77.jpg)
+
 
 header나 메뉴의 크기는 그대로 고정되어 있고, 정렬되어 있는 영상의 개수만 줄어든다.
 
 ### width의 크기가 800보다 작을 때
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf4118ef-d8e6-453e-a376-440c1b7b25d8/Untitled.png)
+![800](https://user-images.githubusercontent.com/46344256/189266192-c7ba0915-4b21-47c5-89f8-cb2e31490379.jpg)
+
 
 정렬되어 있는 영상의 크기는 3 → 2로 줄어들고, header의 h1태그의 명칭이 안보이게 된다. 그리고 메뉴또한 아이콘만 남겨지게 된다.
 
 ### width의 크기가 400보다 작을 때
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/beda6041-2dbf-4452-8c24-862ec7728187/Untitled.png)
+![400](https://user-images.githubusercontent.com/46344256/189266209-3ac194da-3326-4a8f-9ada-b97935cbdb73.jpg)
+
 
 모바일 환경에 맞춰서 검색창이 검색 아이콘으로 변경, 메뉴 또한 사라진다.
 
